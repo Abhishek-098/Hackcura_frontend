@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Hackcura_frontend/static/css/main.f6800ef2.chunk.css",
+    "main.css": "/Hackcura_frontend/static/css/main.9f3a4036.chunk.css",
     "main.js": "/Hackcura_frontend/static/js/main.e5a499d3.chunk.js",
     "main.js.map": "/Hackcura_frontend/static/js/main.e5a499d3.chunk.js.map",
     "runtime-main.js": "/Hackcura_frontend/static/js/runtime-main.63e86ddc.js",
@@ -10,14 +10,14 @@
     "static/js/2.d3a19eac.chunk.js.map": "/Hackcura_frontend/static/js/2.d3a19eac.chunk.js.map",
     "index.html": "/Hackcura_frontend/index.html",
     "static/css/2.74c02967.chunk.css.map": "/Hackcura_frontend/static/css/2.74c02967.chunk.css.map",
-    "static/css/main.f6800ef2.chunk.css.map": "/Hackcura_frontend/static/css/main.f6800ef2.chunk.css.map",
+    "static/css/main.9f3a4036.chunk.css.map": "/Hackcura_frontend/static/css/main.9f3a4036.chunk.css.map",
     "static/js/2.d3a19eac.chunk.js.LICENSE.txt": "/Hackcura_frontend/static/js/2.d3a19eac.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.63e86ddc.js",
     "static/css/2.74c02967.chunk.css",
     "static/js/2.d3a19eac.chunk.js",
-    "static/css/main.f6800ef2.chunk.css",
+    "static/css/main.9f3a4036.chunk.css",
     "static/js/main.e5a499d3.chunk.js"
   ]
 }
