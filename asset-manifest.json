@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/Hackcura_frontend/static/css/main.3c6e1642.chunk.css",
-    "main.js": "/Hackcura_frontend/static/js/main.77fdbad0.chunk.js",
-    "main.js.map": "/Hackcura_frontend/static/js/main.77fdbad0.chunk.js.map",
+    "main.css": "/Hackcura_frontend/static/css/main.c08c1c50.chunk.css",
+    "main.js": "/Hackcura_frontend/static/js/main.caa21065.chunk.js",
+    "main.js.map": "/Hackcura_frontend/static/js/main.caa21065.chunk.js.map",
     "runtime-main.js": "/Hackcura_frontend/static/js/runtime-main.63e86ddc.js",
     "runtime-main.js.map": "/Hackcura_frontend/static/js/runtime-main.63e86ddc.js.map",
     "static/css/2.61b4cb56.chunk.css": "/Hackcura_frontend/static/css/2.61b4cb56.chunk.css",
@@ -10,7 +10,7 @@
     "static/js/2.99dc09c4.chunk.js.map": "/Hackcura_frontend/static/js/2.99dc09c4.chunk.js.map",
     "index.html": "/Hackcura_frontend/index.html",
     "static/css/2.61b4cb56.chunk.css.map": "/Hackcura_frontend/static/css/2.61b4cb56.chunk.css.map",
-    "static/css/main.3c6e1642.chunk.css.map": "/Hackcura_frontend/static/css/main.3c6e1642.chunk.css.map",
+    "static/css/main.c08c1c50.chunk.css.map": "/Hackcura_frontend/static/css/main.c08c1c50.chunk.css.map",
     "static/js/2.99dc09c4.chunk.js.LICENSE.txt": "/Hackcura_frontend/static/js/2.99dc09c4.chunk.js.LICENSE.txt",
     "static/media/footerimg.a0796728.png": "/Hackcura_frontend/static/media/footerimg.a0796728.png",
     "static/media/logo.23fc6cd8.png": "/Hackcura_frontend/static/media/logo.23fc6cd8.png",
@@ -21,7 +21,7 @@
     "static/js/runtime-main.63e86ddc.js",
     "static/css/2.61b4cb56.chunk.css",
     "static/js/2.99dc09c4.chunk.js",
-    "static/css/main.3c6e1642.chunk.css",
-    "static/js/main.77fdbad0.chunk.js"
+    "static/css/main.c08c1c50.chunk.css",
+    "static/js/main.caa21065.chunk.js"
   ]
 }
