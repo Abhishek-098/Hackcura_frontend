@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Hackcura_frontend/static/css/main.807ad4a7.chunk.css",
-    "main.js": "/Hackcura_frontend/static/js/main.496489a0.chunk.js",
-    "main.js.map": "/Hackcura_frontend/static/js/main.496489a0.chunk.js.map",
+    "main.js": "/Hackcura_frontend/static/js/main.cc9db5df.chunk.js",
+    "main.js.map": "/Hackcura_frontend/static/js/main.cc9db5df.chunk.js.map",
     "runtime-main.js": "/Hackcura_frontend/static/js/runtime-main.63e86ddc.js",
     "runtime-main.js.map": "/Hackcura_frontend/static/js/runtime-main.63e86ddc.js.map",
     "static/css/2.61b4cb56.chunk.css": "/Hackcura_frontend/static/css/2.61b4cb56.chunk.css",
@@ -30,6 +30,6 @@
     "static/css/2.61b4cb56.chunk.css",
     "static/js/2.8469c672.chunk.js",
     "static/css/main.807ad4a7.chunk.css",
-    "static/js/main.496489a0.chunk.js"
+    "static/js/main.cc9db5df.chunk.js"
   ]
 }
